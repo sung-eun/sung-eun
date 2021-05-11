@@ -6,4 +6,6 @@
 
 </div>
 
+[> Abount me](https://www.notion.so/About-me_-112bf2f8b49c4c9badbb73505581f0aa)
+
 [![](https://github-readme-stats.vercel.app/api?username=sung-eun&show_icons=true&count_private=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
